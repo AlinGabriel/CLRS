@@ -1,1 +1,2 @@
-# CLRS - 3rd edition,applications, code snippets
+# CLRS - 3rd edition.
+Solved Exercises.
